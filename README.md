@@ -22,3 +22,6 @@ Un script interactivo en Bash para instalar de manera limpia y nativa Cisco Pack
 3. Abre una terminal en esa carpeta y dale permisos de ejecución al script:
    ```bash
    chmod +x install_pt.sh
+4. Ejecuta el script
+   **./install_pt.sh**
+5. Seguimos la instrucciones en texto que nos va dando la Terminal 
