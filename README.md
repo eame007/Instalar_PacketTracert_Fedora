@@ -12,8 +12,8 @@ Un script interactivo en Bash para instalar de manera limpia y nativa Cisco Pack
 
 ## Requisitos
 
-1. Descargar el instalador de **Ubuntu 64-bit (.deb)** desde [NetAcad](https://www.netacad.com/) o [SkillsForAll](https://skillsforall.com/).
-2. Tener el archivo `.deb` guardado en tu computadora.
+1. Descargar el instalador de **Ubuntu 64-bit (.deb)** desde [NetAcad](https://www.netacad.com/resources/lab-downloads?courseLang=es-XL).
+2. Tener el archivo `.deb` guardado en tu computadora en la misma carpeta que este script.
 
 ## Instalación
 
